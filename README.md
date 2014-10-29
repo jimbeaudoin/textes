@@ -1,7 +1,7 @@
 textes
 ======
 
-Articles, How-To I wrote over the Internet.
+Article and How-To I wrote over the Internet.
 
 ## How-To
 
