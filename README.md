@@ -1,7 +1,7 @@
 textes
 ======
 
-Free Articles and How-To for Programmers.
+Free Articles and How-To I wrote for Programmers.
 
 ## How-To
 
